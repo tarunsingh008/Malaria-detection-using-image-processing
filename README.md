@@ -1,0 +1,2 @@
+# Malaria-detection-using-image-processing
+The main aim of the project is to use Python and Machine learning image processing technique to find pattern in the blood samples of people affected by malaria .                         Malaria is considered to be an important health problem. Our project aims to detect malaria at negligible cost which would prove to be beneficial for people who have financial problems.
